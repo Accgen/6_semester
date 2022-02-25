@@ -1,0 +1,13 @@
+D:\SPP\Lab_2\Lab_2\bin\Debug\RentalCar.mdf
+D:\SPP\Lab_2\Lab_2\bin\Debug\RentalCar_log.ldf
+D:\SPP\Lab_2\Lab_2\bin\Debug\Lab_2.exe.config
+D:\SPP\Lab_2\Lab_2\bin\Debug\Lab_2.exe
+D:\SPP\Lab_2\Lab_2\bin\Debug\Lab_2.pdb
+D:\SPP\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+D:\SPP\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.SuggestedBindingRedirects.cache
+D:\SPP\Lab_2\Lab_2\obj\Debug\Lab_2.Form1.resources
+D:\SPP\Lab_2\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+D:\SPP\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+D:\SPP\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+D:\SPP\Lab_2\Lab_2\obj\Debug\Lab_2.exe
+D:\SPP\Lab_2\Lab_2\obj\Debug\Lab_2.pdb

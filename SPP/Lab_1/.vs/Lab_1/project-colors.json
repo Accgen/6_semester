@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4cd5a5aa-cddc-453d-8e1c-b81c979020c7": {
+      "ProjectGuid": "4cd5a5aa-cddc-453d-8e1c-b81c979020c7",
+      "DisplayName": "Lab_1",
+      "ColorIndex": 0
+    },
+    "192f07a5-626f-4c37-a23d-8e4adbc21de2": {
+      "ProjectGuid": "192f07a5-626f-4c37-a23d-8e4adbc21de2",
+      "DisplayName": "Lab_1(Cons)",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
