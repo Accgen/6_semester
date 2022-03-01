@@ -13,7 +13,7 @@ namespace Lab_1
 {
     public partial class Form1 : Form
     {
-        Thread thread;
+        //Thread thread;
         public Form1()
         {
             InitializeComponent();
@@ -21,8 +21,9 @@ namespace Lab_1
 
         public void StartBtn_Click(object sender, EventArgs e)
         {
-            thread = new Thread(Calc);
-            thread.Start();           
+            //thread = new Thread(Calc);
+            //thread.Start();
+            Calc();
         }
         void Calc()
         {
@@ -63,13 +64,13 @@ namespace Lab_1
             FieldN.Text = " ";
             FieldX.Text = " ";
             ResultBox.Text = " ";
-            try
+            /*try
             {
                 thread.Interrupt();
 
             }
             catch (ThreadInterruptedException)
-            { }
+            { }*/
         }
     }
 }

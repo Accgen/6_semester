@@ -9,3 +9,14 @@ D:\SPP\Lab_1\Lab_1\obj\Debug\Lab_1.csproj.GenerateResource.cache
 D:\SPP\Lab_1\Lab_1\obj\Debug\Lab_1.csproj.CoreCompileInputs.cache
 D:\SPP\Lab_1\Lab_1\obj\Debug\Lab_1.exe
 D:\SPP\Lab_1\Lab_1\obj\Debug\Lab_1.pdb
+D:\6_semester\SPP\Lab_1\Lab_1\bin\Debug\Lab_1.exe.config
+D:\6_semester\SPP\Lab_1\Lab_1\bin\Debug\Lab_1.exe
+D:\6_semester\SPP\Lab_1\Lab_1\bin\Debug\Lab_1.pdb
+D:\6_semester\SPP\Lab_1\Lab_1\obj\Debug\Lab_1.csproj.AssemblyReference.cache
+D:\6_semester\SPP\Lab_1\Lab_1\obj\Debug\Lab_1.csproj.SuggestedBindingRedirects.cache
+D:\6_semester\SPP\Lab_1\Lab_1\obj\Debug\Lab_1.Form1.resources
+D:\6_semester\SPP\Lab_1\Lab_1\obj\Debug\Lab_1.Properties.Resources.resources
+D:\6_semester\SPP\Lab_1\Lab_1\obj\Debug\Lab_1.csproj.GenerateResource.cache
+D:\6_semester\SPP\Lab_1\Lab_1\obj\Debug\Lab_1.csproj.CoreCompileInputs.cache
+D:\6_semester\SPP\Lab_1\Lab_1\obj\Debug\Lab_1.exe
+D:\6_semester\SPP\Lab_1\Lab_1\obj\Debug\Lab_1.pdb

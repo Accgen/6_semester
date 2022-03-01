@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ChatClient",
+    "\\ChatHost",
+    "\\wcf_chat"
+  ],
+  "SelectedNode": "\\ChatClient\\MainWindow.xaml.cs",
+  "PreviewInSolutionExplorer": false
+}

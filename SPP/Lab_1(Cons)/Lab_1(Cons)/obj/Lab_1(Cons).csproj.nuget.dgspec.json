@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SPP\\Lab_1(Cons)\\Lab_1(Cons)\\Lab_1(Cons).csproj": {}
+    "D:\\6_semester\\SPP\\Lab_1(Cons)\\Lab_1(Cons)\\Lab_1(Cons).csproj": {}
   },
   "projects": {
-    "D:\\SPP\\Lab_1(Cons)\\Lab_1(Cons)\\Lab_1(Cons).csproj": {
+    "D:\\6_semester\\SPP\\Lab_1(Cons)\\Lab_1(Cons)\\Lab_1(Cons).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SPP\\Lab_1(Cons)\\Lab_1(Cons)\\Lab_1(Cons).csproj",
+        "projectUniqueName": "D:\\6_semester\\SPP\\Lab_1(Cons)\\Lab_1(Cons)\\Lab_1(Cons).csproj",
         "projectName": "Lab_1(Cons)",
-        "projectPath": "D:\\SPP\\Lab_1(Cons)\\Lab_1(Cons)\\Lab_1(Cons).csproj",
+        "projectPath": "D:\\6_semester\\SPP\\Lab_1(Cons)\\Lab_1(Cons)\\Lab_1(Cons).csproj",
         "packagesPath": "C:\\Users\\yakov\\.nuget\\packages\\",
-        "outputPath": "D:\\SPP\\Lab_1(Cons)\\Lab_1(Cons)\\obj\\",
+        "outputPath": "D:\\6_semester\\SPP\\Lab_1(Cons)\\Lab_1(Cons)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
