@@ -11,10 +11,9 @@ namespace Lab_3.DataModels
         public int Id { get; set; }
         public string Name { get; set; }
         public string Sourname { get; set; }
-        public string Passport { get; set; }
         public string Telephone { get; set; }
 
-        public List<Rate> Rates { get; set;} = new List<Rate> { };
+        
 
     }
 }

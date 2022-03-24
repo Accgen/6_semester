@@ -12,6 +12,7 @@ namespace Lab_3.DataModels
         public string Name { get; set; }
         public string Year_release { get; set; }
 
-        public List<Provider> ProviderList { get; set; } = new List<Provider>();    
+        //public List<Provider> Providers { get; set; }
+
     }
 }

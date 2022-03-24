@@ -12,5 +12,7 @@ namespace Lab_3.DataModels
         public string Name { get; set; }
         public string Country { get; set; }
 
+        public List<Car> Cars { get; set; }
+
     }
 }

@@ -45,10 +45,10 @@ namespace Lab_3.DataModels
                 new Rent() { Id = 3, Name = "Day" },
                 new Rent() { Id = 4, Name = "Week" });
             modelBuilder.Entity<Client>().HasData(
-                new Client { Id = 1, Name = "Andrey", Sourname = "Guzarevich", Passport = "AB239842", Telephone = "9729121"},
-                new Client { Id = 2, Name = "Stas", Sourname = "Kotashevich", Passport = "AB1111111", Telephone = "48376583"},
-                new Client { Id = 3, Name = "Alexey", Sourname = "Lud", Passport = "A2222222", Telephone = "85301212"},
-                new Client { Id = 4, Name = "Vlad", Sourname = "Shuk", Passport = "A3333333", Telephone = "324235121"});
+                new Client { Id = 1, Name = "Andrey", Sourname = "Guzarevich", Passport = "AB239842"},
+                new Client { Id = 2, Name = "Stas", Sourname = "Kotashevich", Passport = "AB1111111"},
+                new Client { Id = 3, Name = "Alexey", Sourname = "Lud", Passport = "A2222222"},
+                new Client { Id = 4, Name = "Vlad", Sourname = "Shuk", Passport = "A3333333"});
         }
     }
 }

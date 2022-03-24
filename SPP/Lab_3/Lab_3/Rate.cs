@@ -12,7 +12,7 @@ namespace Lab_3.DataModels
         public string Name { get; set; }
         public string Price { get; set; }
         
-        public List<Car> Cars { get; set; } = new List<Car>();  
+        
 
     }
 }

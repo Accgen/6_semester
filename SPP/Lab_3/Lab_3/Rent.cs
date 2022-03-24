@@ -3,9 +3,7 @@
     public class Rent
     {
         public int Id { get; set; }
-        public string Name { get; set; }
-
-        //public List<Client> Clients { get; set;}   
+        public string Name { get; set; }  
 
     }
 }
