@@ -14,6 +14,5 @@ namespace Lab_3.DataModels
         public string Telephone { get; set; }
 
         
-
     }
 }
