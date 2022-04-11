@@ -1,0 +1,32 @@
+D:\testi\ForIllya\ForIllya\bin\Debug\net5.0\ForIllya.exe
+D:\testi\ForIllya\ForIllya\bin\Debug\net5.0\ForIllya.deps.json
+D:\testi\ForIllya\ForIllya\bin\Debug\net5.0\ForIllya.runtimeconfig.json
+D:\testi\ForIllya\ForIllya\bin\Debug\net5.0\ForIllya.runtimeconfig.dev.json
+D:\testi\ForIllya\ForIllya\bin\Debug\net5.0\ForIllya.dll
+D:\testi\ForIllya\ForIllya\bin\Debug\net5.0\ForIllya.pdb
+D:\testi\ForIllya\ForIllya\obj\Debug\net5.0\ForIllya.csproj.AssemblyReference.cache
+D:\testi\ForIllya\ForIllya\obj\Debug\net5.0\ForIllya.GeneratedMSBuildEditorConfig.editorconfig
+D:\testi\ForIllya\ForIllya\obj\Debug\net5.0\ForIllya.AssemblyInfoInputs.cache
+D:\testi\ForIllya\ForIllya\obj\Debug\net5.0\ForIllya.AssemblyInfo.cs
+D:\testi\ForIllya\ForIllya\obj\Debug\net5.0\ForIllya.csproj.CoreCompileInputs.cache
+D:\testi\ForIllya\ForIllya\obj\Debug\net5.0\ForIllya.dll
+D:\testi\ForIllya\ForIllya\obj\Debug\net5.0\refint\ForIllya.dll
+D:\testi\ForIllya\ForIllya\obj\Debug\net5.0\ForIllya.pdb
+D:\testi\ForIllya\ForIllya\obj\Debug\net5.0\ForIllya.genruntimeconfig.cache
+D:\testi\ForIllya\ForIllya\obj\Debug\net5.0\ref\ForIllya.dll
+C:\Users\yakov\OneDrive\Рабочий стол\ForIllya\ForIllya\bin\Debug\net5.0\ForIllya.exe
+C:\Users\yakov\OneDrive\Рабочий стол\ForIllya\ForIllya\bin\Debug\net5.0\ForIllya.deps.json
+C:\Users\yakov\OneDrive\Рабочий стол\ForIllya\ForIllya\bin\Debug\net5.0\ForIllya.runtimeconfig.json
+C:\Users\yakov\OneDrive\Рабочий стол\ForIllya\ForIllya\bin\Debug\net5.0\ForIllya.runtimeconfig.dev.json
+C:\Users\yakov\OneDrive\Рабочий стол\ForIllya\ForIllya\bin\Debug\net5.0\ForIllya.dll
+C:\Users\yakov\OneDrive\Рабочий стол\ForIllya\ForIllya\bin\Debug\net5.0\ref\ForIllya.dll
+C:\Users\yakov\OneDrive\Рабочий стол\ForIllya\ForIllya\bin\Debug\net5.0\ForIllya.pdb
+C:\Users\yakov\OneDrive\Рабочий стол\ForIllya\ForIllya\obj\Debug\net5.0\ForIllya.csproj.AssemblyReference.cache
+C:\Users\yakov\OneDrive\Рабочий стол\ForIllya\ForIllya\obj\Debug\net5.0\ForIllya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakov\OneDrive\Рабочий стол\ForIllya\ForIllya\obj\Debug\net5.0\ForIllya.AssemblyInfoInputs.cache
+C:\Users\yakov\OneDrive\Рабочий стол\ForIllya\ForIllya\obj\Debug\net5.0\ForIllya.AssemblyInfo.cs
+C:\Users\yakov\OneDrive\Рабочий стол\ForIllya\ForIllya\obj\Debug\net5.0\ForIllya.csproj.CoreCompileInputs.cache
+C:\Users\yakov\OneDrive\Рабочий стол\ForIllya\ForIllya\obj\Debug\net5.0\ForIllya.dll
+C:\Users\yakov\OneDrive\Рабочий стол\ForIllya\ForIllya\obj\Debug\net5.0\ref\ForIllya.dll
+C:\Users\yakov\OneDrive\Рабочий стол\ForIllya\ForIllya\obj\Debug\net5.0\ForIllya.pdb
+C:\Users\yakov\OneDrive\Рабочий стол\ForIllya\ForIllya\obj\Debug\net5.0\ForIllya.genruntimeconfig.cache

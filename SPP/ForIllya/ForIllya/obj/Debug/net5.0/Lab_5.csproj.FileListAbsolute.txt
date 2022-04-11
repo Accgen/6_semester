@@ -1,0 +1,16 @@
+D:\6_semester\SPP\ForIllya\ForIllya\bin\Debug\net5.0\Lab_5.exe
+D:\6_semester\SPP\ForIllya\ForIllya\bin\Debug\net5.0\Lab_5.deps.json
+D:\6_semester\SPP\ForIllya\ForIllya\bin\Debug\net5.0\Lab_5.runtimeconfig.json
+D:\6_semester\SPP\ForIllya\ForIllya\bin\Debug\net5.0\Lab_5.runtimeconfig.dev.json
+D:\6_semester\SPP\ForIllya\ForIllya\bin\Debug\net5.0\Lab_5.dll
+D:\6_semester\SPP\ForIllya\ForIllya\bin\Debug\net5.0\ref\Lab_5.dll
+D:\6_semester\SPP\ForIllya\ForIllya\bin\Debug\net5.0\Lab_5.pdb
+D:\6_semester\SPP\ForIllya\ForIllya\obj\Debug\net5.0\Lab_5.csproj.AssemblyReference.cache
+D:\6_semester\SPP\ForIllya\ForIllya\obj\Debug\net5.0\Lab_5.GeneratedMSBuildEditorConfig.editorconfig
+D:\6_semester\SPP\ForIllya\ForIllya\obj\Debug\net5.0\Lab_5.AssemblyInfoInputs.cache
+D:\6_semester\SPP\ForIllya\ForIllya\obj\Debug\net5.0\Lab_5.AssemblyInfo.cs
+D:\6_semester\SPP\ForIllya\ForIllya\obj\Debug\net5.0\Lab_5.csproj.CoreCompileInputs.cache
+D:\6_semester\SPP\ForIllya\ForIllya\obj\Debug\net5.0\Lab_5.dll
+D:\6_semester\SPP\ForIllya\ForIllya\obj\Debug\net5.0\ref\Lab_5.dll
+D:\6_semester\SPP\ForIllya\ForIllya\obj\Debug\net5.0\Lab_5.pdb
+D:\6_semester\SPP\ForIllya\ForIllya\obj\Debug\net5.0\Lab_5.genruntimeconfig.cache
