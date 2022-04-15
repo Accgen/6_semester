@@ -1,0 +1,26 @@
+﻿<Window x:Class="spp3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:spp3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="DtaGrid" x:FieldModifier="public" MouseDoubleClick="DtaGrid_OnMouseDoubleClick" AutoGenerateColumns="False" ColumnWidth="*" Margin="0,0,140,0"  CanUserAddRows="False" CanUserReorderColumns="False" CanUserResizeColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="Name" Header="Name" Binding="{Binding Name}" IsReadOnly="True"/>
+                <DataGridTextColumn x:Name="Race" Header="Car" Binding="{Binding Car.Name}" IsReadOnly="True"/>
+                <DataGridTextColumn x:Name="Location" Header="Client" Binding="{Binding Client.Name}" IsReadOnly="True"/>
+                <DataGridTextColumn x:Name="Country" Header="Rate" Binding="{Binding Rate.Name}" IsReadOnly="True"/>
+                <DataGridTextColumn x:Name="Car" Header="Provider" Binding="{Binding Car.Provider.Name}" IsReadOnly="True"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Content="Add Client"  Margin="686,33,21,353" Click="AddClient"/>
+        <Button Content="Add Car"  Margin="686,102,21,284" Click="AddCar"/>
+        <Button Content="Add Rate"  Margin="686,169,21,217" Click="AddRate"/>
+        <Button Content="Add Provider"  Margin="686,243,21,143" Click="AddProvider"/>
+        <Button Content="Add Racer"  Margin="686,317,21,69" Click="AddRent"/>
+
+    </Grid>
+</Window>
