@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\testi\spp3\spp3\obj\Debug\net5.0-windows\
+D:\6_semester\SPP\spp3\spp3\obj\Debug\net5.0-windows\
 spp3
 none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
-D:\testi\spp3\spp3\App.xaml
+D:\6_semester\SPP\spp3\spp3\App.xaml
 71147319945
 
 17-1466680688
-2141166976891
+214-859369271
 MainWindow.xaml;View\AddCar.xaml;View\AddClient.xaml;View\AddProvider.xaml;View\AddRate.xaml;View\AddRent.xaml;View\UpdateRent.xaml;
 
-False
+True
 

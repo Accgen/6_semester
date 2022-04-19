@@ -20,7 +20,8 @@
         <Button Content="Add Car"  Margin="686,102,21,284" Click="AddCar"/>
         <Button Content="Add Rate"  Margin="686,169,21,217" Click="AddRate"/>
         <Button Content="Add Provider"  Margin="686,243,21,143" Click="AddProvider"/>
-        <Button Content="Add Racer"  Margin="686,317,21,69" Click="AddRent"/>
+        <Button Content="Add Rent"  Margin="686,317,21,69" Click="AddRent"/>
+        <ComboBox x:Name="filter" HorizontalAlignment="Left" Margin="670,386,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="ComboBox_SelectionChanged"/>
 
     </Grid>
 </Window>

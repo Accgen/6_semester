@@ -17,6 +17,7 @@ namespace spp3
         {
             InitializeComponent();
             FillTable();
+            
         }
 
         public void FillTable()
@@ -28,6 +29,7 @@ namespace spp3
                 .Include(r => r.Client)
                 .Include(r => r.Car.Provider)
                 .ToList();
+            filter.ItemsSource = context.Cars.Select(a => a.Name).ToList();
         }
 
         private void AddRate(object sender, RoutedEventArgs e)
@@ -121,6 +123,19 @@ namespace spp3
                 context.SaveChanges();
             }
             FillTable();
+        }
+
+        private void ComboBox_SelectionChanged(object sender, System.Windows.Controls.SelectionChangedEventArgs e)
+        {
+            using RentContext context = new RentContext();
+            var item = filter.SelectedValue.ToString();
+            var qwe = context.Rents
+                .Include(r => r.Car)
+                .Include(r => r.Rate)
+                .Include(r => r.Client)
+                .Include(r => r.Car.Provider)
+                .Where(r => r.Car.Name == item).ToList();
+            DtaGrid.ItemsSource = qwe;
         }
     }
 }
