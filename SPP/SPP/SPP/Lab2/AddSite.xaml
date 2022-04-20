@@ -1,0 +1,15 @@
+﻿<Window x:Class="SPP.Lab2.AddSite"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:local="clr-namespace:SPP.Lab2"
+        mc:Ignorable="d"
+        Title="AddSite" Height="250" Width="300">
+    <Grid>
+        <TextBlock HorizontalAlignment="Center" Margin="0,40,0,0" TextWrapping="Wrap" Text="Site" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="30,80,0,0" TextWrapping="Wrap" Text="Name" VerticalAlignment="Top"/>
+        <TextBox Name="nameTextBox" HorizontalAlignment="Left" Height="30" Margin="90,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" />
+        <Button Name="InsertBtn" Content="Add" HorizontalAlignment="Center" Margin="0,130,0,0" VerticalAlignment="Top" Width="90" Height="30" Click="insertBtn_Click"/>
+    </Grid>
+</Window>

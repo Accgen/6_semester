@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0ff60917_002Da87e_002D4009_002Da460_002D2cfd3688fae6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SumShouldFail" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;EEE8E76A-D907-4869-9B28-214C9DEA2684/f:CalculateTests.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e488153d_002D0622_002D48f7_002D8ccf_002Dc48f2b69c163/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SumShouldFail #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::EEE8E76A-D907-4869-9B28-214C9DEA2684::net6.0::Lab3.Tests.CalculateTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

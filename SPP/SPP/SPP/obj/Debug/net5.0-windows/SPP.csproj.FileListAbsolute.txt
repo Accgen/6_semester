@@ -1,0 +1,148 @@
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\SPP.exe
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\SPP.deps.json
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\SPP.runtimeconfig.json
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\SPP.runtimeconfig.dev.json
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\SPP.dll
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\ref\SPP.dll
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\SPP.pdb
+D:\лабы\SPP\SPP\SPP\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\лабы\SPP\SPP\SPP\obj\Debug\net5.0-windows\App.g.cs
+D:\лабы\SPP\SPP\SPP\obj\Debug\net5.0-windows\SPP_MarkupCompile.cache
+D:\лабы\SPP\SPP\SPP\obj\Debug\net5.0-windows\SPP_MarkupCompile.lref
+D:\лабы\SPP\SPP\SPP\obj\Debug\net5.0-windows\MainWindow.baml
+D:\лабы\SPP\SPP\SPP\obj\Debug\net5.0-windows\SPP.g.resources
+D:\лабы\SPP\SPP\SPP\obj\Debug\net5.0-windows\SPP.GeneratedMSBuildEditorConfig.editorconfig
+D:\лабы\SPP\SPP\SPP\obj\Debug\net5.0-windows\SPP.AssemblyInfoInputs.cache
+D:\лабы\SPP\SPP\SPP\obj\Debug\net5.0-windows\SPP.AssemblyInfo.cs
+D:\лабы\SPP\SPP\SPP\obj\Debug\net5.0-windows\SPP.csproj.CoreCompileInputs.cache
+D:\лабы\SPP\SPP\SPP\obj\Debug\net5.0-windows\SPP.dll
+D:\лабы\SPP\SPP\SPP\obj\Debug\net5.0-windows\ref\SPP.dll
+D:\лабы\SPP\SPP\SPP\obj\Debug\net5.0-windows\SPP.pdb
+D:\лабы\SPP\SPP\SPP\obj\Debug\net5.0-windows\SPP.genruntimeconfig.cache
+D:\лабы\SPP\SPP\SPP\obj\Debug\net5.0-windows\Lab1.g.cs
+D:\лабы\SPP\SPP\SPP\obj\Debug\net5.0-windows\Lab1.baml
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\Humanizer.dll
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\лабы\SPP\SPP\SPP\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\лабы\SPP\SPP\SPP\obj\Debug\net5.0-windows\SPP.csproj.CopyComplete
+D:\лабы\SPP\SPP\SPP\obj\Debug\net5.0-windows\Lab2\InsertPage.g.cs
+D:\лабы\SPP\SPP\SPP\obj\Debug\net5.0-windows\Lab2\Lab2.g.cs
+D:\лабы\SPP\SPP\SPP\obj\Debug\net5.0-windows\Lab2\UpdatePage.g.cs
+D:\лабы\SPP\SPP\SPP\obj\Debug\net5.0-windows\Lab2\InsertPage.baml
+D:\лабы\SPP\SPP\SPP\obj\Debug\net5.0-windows\Lab2\Lab2.baml
+D:\лабы\SPP\SPP\SPP\obj\Debug\net5.0-windows\Lab2\UpdatePage.baml
+D:\лабы\SPP\SPP\SPP\obj\Debug\net5.0-windows\Lab2\AddSite.g.cs
+D:\лабы\SPP\SPP\SPP\obj\Debug\net5.0-windows\Lab2\FullInfo.g.cs
+D:\лабы\SPP\SPP\SPP\obj\Debug\net5.0-windows\Lab2\AddSite.baml
+D:\лабы\SPP\SPP\SPP\obj\Debug\net5.0-windows\Lab2\FullInfo.baml
+D:\лабы\SPP\SPP\SPP\obj\Debug\net5.0-windows\SPP.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\SPP.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\SPP.deps.json
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\SPP.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\SPP.runtimeconfig.dev.json
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\SPP.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\ref\SPP.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\SPP.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\obj\Debug\net5.0-windows\SPP.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\obj\Debug\net5.0-windows\Lab1.g.cs
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\obj\Debug\net5.0-windows\Lab2\AddSite.g.cs
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\obj\Debug\net5.0-windows\Lab2\FullInfo.g.cs
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\obj\Debug\net5.0-windows\Lab2\InsertPage.g.cs
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\obj\Debug\net5.0-windows\Lab2\Lab2.g.cs
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\obj\Debug\net5.0-windows\Lab2\UpdatePage.g.cs
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\obj\Debug\net5.0-windows\SPP_MarkupCompile.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\obj\Debug\net5.0-windows\SPP_MarkupCompile.lref
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\obj\Debug\net5.0-windows\Lab1.baml
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\obj\Debug\net5.0-windows\Lab2\AddSite.baml
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\obj\Debug\net5.0-windows\Lab2\FullInfo.baml
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\obj\Debug\net5.0-windows\Lab2\InsertPage.baml
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\obj\Debug\net5.0-windows\Lab2\Lab2.baml
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\obj\Debug\net5.0-windows\Lab2\UpdatePage.baml
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\obj\Debug\net5.0-windows\SPP.g.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\obj\Debug\net5.0-windows\SPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\obj\Debug\net5.0-windows\SPP.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\obj\Debug\net5.0-windows\SPP.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\obj\Debug\net5.0-windows\SPP.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\obj\Debug\net5.0-windows\SPP.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\obj\Debug\net5.0-windows\SPP.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\obj\Debug\net5.0-windows\ref\SPP.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\obj\Debug\net5.0-windows\SPP.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\obj\Debug\net5.0-windows\SPP.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\obj\Debug\net5.0-windows\Lab2\Orders.g.cs
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\obj\Debug\net5.0-windows\Lab2\Orders.baml
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\obj\Debug\net5.0-windows\Lab2\AddOrder.g.cs
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\SPP\obj\Debug\net5.0-windows\Lab2\AddOrder.baml

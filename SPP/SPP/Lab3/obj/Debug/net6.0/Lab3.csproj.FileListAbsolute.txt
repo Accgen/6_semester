@@ -1,0 +1,30 @@
+D:\лабы\SPP\SPP\Lab3\obj\Debug\net6.0\Lab3.csproj.AssemblyReference.cache
+D:\лабы\SPP\SPP\Lab3\obj\Debug\net6.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\лабы\SPP\SPP\Lab3\obj\Debug\net6.0\Lab3.AssemblyInfoInputs.cache
+D:\лабы\SPP\SPP\Lab3\obj\Debug\net6.0\Lab3.AssemblyInfo.cs
+D:\лабы\SPP\SPP\Lab3\obj\Debug\net6.0\Lab3.csproj.CoreCompileInputs.cache
+D:\лабы\SPP\SPP\Lab3\bin\Debug\net6.0\Lab3.exe
+D:\лабы\SPP\SPP\Lab3\bin\Debug\net6.0\Lab3.deps.json
+D:\лабы\SPP\SPP\Lab3\bin\Debug\net6.0\Lab3.runtimeconfig.json
+D:\лабы\SPP\SPP\Lab3\bin\Debug\net6.0\Lab3.dll
+D:\лабы\SPP\SPP\Lab3\bin\Debug\net6.0\ref\Lab3.dll
+D:\лабы\SPP\SPP\Lab3\bin\Debug\net6.0\Lab3.pdb
+D:\лабы\SPP\SPP\Lab3\obj\Debug\net6.0\Lab3.dll
+D:\лабы\SPP\SPP\Lab3\obj\Debug\net6.0\ref\Lab3.dll
+D:\лабы\SPP\SPP\Lab3\obj\Debug\net6.0\Lab3.pdb
+D:\лабы\SPP\SPP\Lab3\obj\Debug\net6.0\Lab3.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\Lab3\bin\Debug\net6.0\Lab3.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\Lab3\bin\Debug\net6.0\Lab3.deps.json
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\Lab3\bin\Debug\net6.0\Lab3.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\Lab3\bin\Debug\net6.0\Lab3.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\Lab3\bin\Debug\net6.0\ref\Lab3.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\Lab3\bin\Debug\net6.0\Lab3.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\Lab3\obj\Debug\net6.0\Lab3.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\Lab3\obj\Debug\net6.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\Lab3\obj\Debug\net6.0\Lab3.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\Lab3\obj\Debug\net6.0\Lab3.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\Lab3\obj\Debug\net6.0\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\Lab3\obj\Debug\net6.0\Lab3.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\Lab3\obj\Debug\net6.0\ref\Lab3.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\Lab3\obj\Debug\net6.0\Lab3.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\SPP\SPP\Lab3\obj\Debug\net6.0\Lab3.genruntimeconfig.cache
