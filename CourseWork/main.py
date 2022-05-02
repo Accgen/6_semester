@@ -2,6 +2,10 @@ import telebot
 import requests
 from bs4 import  BeautifulSoup
 from telebot import types
+from geopy import Yandex
+from geopy.distance import geodesic
+import pandas as pd
+from pandas import read_csv
 
 
 bot = telebot.TeleBot("5336357947:AAGjQ7Sxii_RrCN2aS0HUKxOxADM6Jy5miY")
@@ -17,15 +21,14 @@ def start(message):
 
     bot.send_message(message.chat.id, 'Привет, {0.first_name}, ты что-то хотел?'.format(message.from_user), reply_markup=markup)
 
-
 @bot.message_handler(content_types=['text'])
-def find_tabletki(message):
+def find(message):
     if message.text == 'Найти лекарство по названию':
         bot.send_message(message.chat.id, "Введите название, препарата который ищете")
         bot.register_next_step_handler(message, search)
     if message.text == 'Найти ближайшую ко мне аптеку':
-        bot.send_message(message.chat.id, "Введите адрес ваш адрес пожалуйста")
-        bot.register_next_step_handler(message, find_pharmacy)
+        bot.send_message(message.chat.id, "Введите адрес ваш адрес пожалуйста, \nПример: 'Московская 267/1, Брест' ")
+        bot.register_next_step_handler(message, find_apteka)
 
 #ПОИСК ЛЕКАРСТВ--------------
 def search(message):
@@ -38,17 +41,21 @@ def search(message):
     soup = BeautifulSoup(response.text, 'lxml')
 
     save_message = message.text
+    capitalizeMessage = save_message.capitalize()
+    replacestr = capitalizeMessage.replace(" ", "")
 
     internalLinks = [
         a.get('href')
         for a in soup.find_all('a')
-        if a.get('href') and a.get('href').startswith('/result') and a.get_text().startswith(f"{save_message.capitalize()}")]
+        if a.get('href') and a.get('href').startswith('/result') and a.get_text().startswith(f"{replacestr}")]
 
 
+    print(replacestr)
     sorted_links = []
     for j in internalLinks:
         if j not in sorted_links:
             sorted_links.append(j)
+
 
     if sorted_links == []:
         bot.send_message(message.chat.id, "По вашему запросу ничего не найдено")
@@ -62,10 +69,61 @@ def search(message):
 
 
 #ПОИСК АПТЕКИ----------------------
-def find_pharmacy(message):
-    bot.send_message(message.chat.id, "Воу воу воу не спеши дружок , я ещё не готов , но адресок я твой запишу и украинска бимба скоро вылетить!")
-    bot.send_message(message.chat.id, 'А пока что {0.first_name} иди погуляй'.format(message.from_user))
+def find_apteka(message):
+    place = message.text
+    location = Yandex(api_key='0ef27e34-3ede-402a-95f2-fee33edd3e6f').geocode(place)
+
+    lat = location.latitude
+    lon = location.longitude
+
+    latitude_place = float(lat)
+    longitude_place = float(lon)
+
+
+    path = "D:/6_semester/CourseWork/apt_info.csv"
+    df1 = read_csv(path, delimiter=",", header=0)
+
+
+    apt_coords = []
+    loc_dist = {}
+    for i,j,k in zip(df1['Latitude'],df1['Longitude'],df1['Name']):
+        temp_apteka = (i,j)
+        apt_coords.append(temp_apteka)
+        loc_dist.update({f"{k}": f"{temp_apteka}"})
+
+
+    user = (f"{latitude_place}" ,f"{longitude_place}")
+
+    distance_m = []
+    for i in range(len(apt_coords)):
+        distance_m.append(geodesic(user, apt_coords[i]).meters)
+
+    count = 0
+
+    for key in loc_dist:
+        loc_dist[key] = distance_m[count]
+        count += 1
+
+    # print("----------")
+    # print(loc_dist)
+    # print("----------")
+
+    min_dist = min(loc_dist.values())
+    # print(min_dist)
+    # print(min_dist in loc_dist.values())
+    #print(list(loc_dist.keys())[list(loc_dist.values()).index(min_dist)])
+
+    apteka_name = list(loc_dist.keys())[list(loc_dist.values()).index(min_dist)]
+    for i,j,k,z in zip(df1['Name'],df1['Address'],df1['Telephone'],df1['Work-time']):
+        if apteka_name == i:
+            print(i,j,k,z)
+            bot.send_message(message.chat.id, f"{i}" + "\nАдрес: " + f"{j}" + "\nТелефон: " + f"{k}" + "\nВремя работы: " + f"{z}")
+
+
+
 
 bot.polling(none_stop= True)
+
+
 
 
