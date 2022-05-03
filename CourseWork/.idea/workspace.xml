@@ -33,7 +33,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.get_loc_apt">
+  <component name="RunManager" selected="Python.main">
     <configuration name="add_aptekas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CourseWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,9 +120,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.add_aptekas" />
         <item itemvalue="Python.get_loc_apt" />
         <item itemvalue="Python.work_loc" />
-        <item itemvalue="Python.add_aptekas" />
       </list>
     </recent_temporary>
   </component>

@@ -19,16 +19,32 @@ def start(message):
 
     markup.add(item1, item2)
 
-    bot.send_message(message.chat.id, 'Привет, {0.first_name}, ты что-то хотел?'.format(message.from_user), reply_markup=markup)
+    bot.send_message(message.chat.id, 'Привет {0.first_name}, я Таблеткин и я могу тебе помочь найти лекарства или ближайшую '
+                                      'аптеку, реши что тебе нужно и просто нажми кнопку?'.format(message.from_user), reply_markup=markup)
 
 @bot.message_handler(content_types=['text'])
 def find(message):
     if message.text == 'Найти лекарство по названию':
         bot.send_message(message.chat.id, "Введите название, препарата который ищете")
         bot.register_next_step_handler(message, search)
+
     if message.text == 'Найти ближайшую ко мне аптеку':
         bot.send_message(message.chat.id, "Введите адрес ваш адрес пожалуйста, \nПример: 'Московская 267/1, Брест' ")
         bot.register_next_step_handler(message, find_apteka)
+
+    # if message.text != 'Найти лекарство по названию':
+    #     bot.send_message(message.chat.id, "Определись, что тебе нужно и вперёд")
+    # elif message.text != 'Введите название, препарата который ищете':
+    #     bot.send_message(message.chat.id, "Определись, что тебе нужно и вперёд")
+
+    # if message.text != 'Найти ближайшую ко мне аптеку':
+    #     bot.send_message(message.chat.id, "Определись, что тебе нужно и вперёд")
+    # elif message.text != "'Введите адрес ваш адрес пожалуйста, \nПример: 'Московская 267/1, Брест'":
+    #     bot.send_message(message.chat.id, "Определись, что тебе нужно и вперёд")
+
+@bot.message_handler(content_types=['text'])
+async def bot_message(message):
+    bot.send_message(message.chat.id, "Определись что тебе нужно и вперёд")
 
 #ПОИСК ЛЕКАРСТВ--------------
 def search(message):
@@ -66,7 +82,6 @@ def search(message):
         bot.send_message(message.chat.id, new_url)
         if i == 9:
             break
-
 
 #ПОИСК АПТЕКИ----------------------
 def find_apteka(message):
@@ -118,8 +133,6 @@ def find_apteka(message):
         if apteka_name == i:
             print(i,j,k,z)
             bot.send_message(message.chat.id, f"{i}" + "\nАдрес: " + f"{j}" + "\nТелефон: " + f"{k}" + "\nВремя работы: " + f"{z}")
-
-
 
 
 bot.polling(none_stop= True)
